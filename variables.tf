@@ -1,7 +1,7 @@
 variable "cluster_name" {
   description = "EKS Cluster Name"
   type        = string
-  default     = "sudheer-demo"
+  default     = "sandeep-demo"
 }
 
 variable "aws_region" {
